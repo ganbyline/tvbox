@@ -1,0 +1,14 @@
+{
+  "urls": [
+    {
+      "name": "影视仓一号仓",
+      "url": "https://hk.gh-proxy.org/https://github.com/ganbyline/tvbox/raw/refs/heads/main/001.json",
+      "group": "主仓"
+    },
+    {
+      "name": "影视仓二号仓",
+      "url": "https://hk.gh-proxy.org/https://github.com/ganbyline/tvbox/raw/refs/heads/main/002.json",
+      "group": "备用仓"
+    }
+  ]
+}
